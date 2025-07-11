@@ -15,7 +15,7 @@ I’m broadly interested in **human-AI interaction**, **computational design**, 
 
 My technical background spans **optical engineering**, **computational imaging**, and **interactive system design**, including work on lensless imaging, 3D display evaluation, and real-time astronomical image reconstruction. I’ve published research in *Optics Express*, *Fundamental Research*, and *HRI*, and submitted papers to *SIGGRAPH Asia* and *TEI*.
 
-Check out my [CV](./CV_Shuowen_Li.pdf) for more!
+Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
