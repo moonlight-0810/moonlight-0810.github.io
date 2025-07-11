@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Shuowen's personal website"
 author_profile: true
 redirect_from: 
   - /about/
