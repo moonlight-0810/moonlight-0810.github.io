@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## 👋 About Me
 
 Hi! I’m **Shuowen Li (李硕文)**, currently a second-year M.S. student in Optical Engineering at the **Department of Precision Instrument, Tsinghua University**, advised by Prof. [Liangcai Cao](https://www.au.tsinghua.edu.cn/info/1133/1413.htm), and collaborating closely with Prof. [Haipeng Mi](https://www.ad.tsinghua.edu.cn/info/1046/1691.htm) at the Academy of Arts & Design.
