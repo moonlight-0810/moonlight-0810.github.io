@@ -47,7 +47,7 @@ main:
     url: /#interests
 
   - title: "CV"
-    url: /cv/
+    url: /assets/CV_Shuowen_Li.pdf
 
   - title: "Guide"
     url: /markdown/
