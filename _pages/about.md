@@ -65,7 +65,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
     <p><em>Geoff Cottrell</em>. <strong><em>Matter: A Very Short Introduction</em></strong>.<br>
     Translated by <strong>Xiang Liu, Shuowen Li, Jiageng Li</strong>.<br>
     Yilin Press, 2024. ISBN: 9787575301671.</p>
-    <p><em>A concise and engaging introduction to the fundamental nature of matter, bridging physics, philosophy, and daily experience.</em></p>
+    <p><em>A concise yet wide-ranging introduction to matter, guiding readers through its forms from fundamental particles to cosmic structures—with clarity and accessibility.</em></p>
   </div>
 
 </div>
