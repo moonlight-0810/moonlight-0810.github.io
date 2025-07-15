@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<h2 id="about-me">About Me</h2>
 Hi! I’m **Shuowen Li (李硕文)**, currently a second-year M.S. student in Optical Engineering at the **Department of Precision Instrument, Tsinghua University**, advised by Prof. [Liangcai Cao](https://www.au.tsinghua.edu.cn/info/1133/1413.htm), and collaborating closely with Prof. [Haipeng Mi](https://www.ad.tsinghua.edu.cn/info/1046/1691.htm) at the Academy of Arts & Design.
 
 I’m broadly interested in **human-AI interaction**, **computational design**, and **creative robotics**. My recent work focuses on bridging intelligent systems and generative interfaces—particularly how we can enable *semantic-driven evolution*, *co-creative storytelling*, and *affective interaction* in digital and physical lifeforms. I enjoy designing interactive systems that integrate AI, simulation, and physical prototyping, with the goal of empowering human creativity through computation.
@@ -19,7 +19,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
-## 🔥 News
+## 🔥 News {#news}
 
 * **2025/01**: Our paper *"Participatory Evolution of Artificial Life Systems via Semantic Feedback"* has been submitted to **SIGGRAPH Asia 2025 Art Papers** 🎨🧬
 * **2025/01**: Our paper *"PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots"* has been submitted to **TEI 2026** 🤖📚
