@@ -74,7 +74,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
-## 🧪 Projects {#Projects}
+## 🧪 Projects {#projects}
 
 ### 🧬 **Semantic-Guided Artificial Life System**
 
@@ -108,7 +108,7 @@ Proposed a hybrid evaluation framework for **glasses-free 3D displays**, integra
 
 
 
-## 🎯 Research Interests {#Research Interests}
+## 🎯 Research Interests {#interests}
 
 * **Human–AI Co-Creation**: Designing interactive systems that fuse generative AI with human intention, language, and emotion.
 * **Computational Design Tools**: Building tools for evolving, simulating, and editing digital forms—across visual, spatial, and behavioral dimensions.
