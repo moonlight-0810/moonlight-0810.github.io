@@ -74,11 +74,19 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 ## 🧪 Projects {#projects}
 
-### 🧬 **Semantic-Guided Artificial Life System**
+### 🧬 <strong>Semantic-Guided Artificial Life System</strong>
 
-*Academy of Arts & Design, Tsinghua University (2023–present)*
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
 
-Developed a real-time interactive system where users evolve digital lifeforms using **natural language prompts**. Integrated **CLIP-based multimodal evaluation** and **CMA-ES optimization**, supporting both semantic guidance and emergent swarm behaviors. Enables participatory generative design in the spirit of "evolving with intention".
+  <video src="/videos/semantic_life.mp4" autoplay loop muted playsinline style="width: 220px; border-radius: 8px; border: 1px solid #ccc;"></video>
+
+  <div>
+    <p><em>Academy of Arts & Design, Tsinghua University (2023–present)</em></p>
+    <p>Developed a real-time interactive system where users evolve digital lifeforms using <strong>natural language prompts</strong>. Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors. Enables participatory generative design in the spirit of “evolving with intention”.</p>
+  </div>
+
+</div>
+
 
 ### 🤖 **PuppetLine: Swarm Robotic Storytelling**
 
