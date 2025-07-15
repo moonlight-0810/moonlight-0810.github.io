@@ -18,18 +18,6 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
-
-## 🔥 News {#news}
-
-* **2025/01**: Our paper *"Participatory Evolution of Artificial Life Systems via Semantic Feedback"* has been submitted to **SIGGRAPH Asia 2025 Art Papers** 🎨🧬
-* **2025/01**: Our paper *"PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots"* has been submitted to **TEI 2026** 🤖📚
-* **2024/12**: Our paper *"Multidimensional Crosstalk Analysis in Autostereoscopic Displays"* has been accepted by **Optics Express** 🖼️📐
-* **2024/08**: Our paper *"Embo: A Wearable Robot Transforming Child-Directed Verbal Aggression into Tactile Feedback"* has been accepted by **HRI 2024 Companion** ✋🧠
-* **2024/07**: Our survey paper *"Lensless Camera: Unraveling the Breakthroughs and Prospects"* is in press at **Fundamental Research** 🧩📷
-* **2024/06**: Our paper *"Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method"* has been published in **Optics Express** 🌌🔭
-
-
-
 ## 📄 Publications {#publications}
 
 ### Peer-reviewed Conference Papers
@@ -66,11 +54,21 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
+
 ### 📘 Book Translation
 
-* Geoff Cottrell. *Matter: A Very Short Introduction*. Translated by **Xiang Liu, Shuowen Li, Jiageng Li**.
-  Yilin Press, 2024. ISBN: 9787575301671.
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
 
+  <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 120px; height: auto; border: 1px solid #ccc;">
+
+  <div>
+    <p><em>Geoff Cottrell</em>. <strong><em>Matter: A Very Short Introduction</em></strong>.<br>
+    Translated by <strong>Xiang Liu, Shuowen Li, Jiageng Li</strong>.<br>
+    Yilin Press, 2024. ISBN: 9787575301671.</p>
+    <p><em>A concise and engaging introduction to the fundamental nature of matter, bridging physics, philosophy, and daily experience.</em></p>
+  </div>
+
+</div>
 
 
 
@@ -105,6 +103,7 @@ Developed a GPU-accelerated pipeline for **turbulence removal** in single-frame 
 *Dept. of Precision Instrument, Tsinghua University (2022–2024)*
 
 Proposed a hybrid evaluation framework for **glasses-free 3D displays**, integrating **optical metrics** and **human visual comfort** analysis. Contributed to drafting **industry standards** for autostereoscopic display technologies.
+
 
 
 
