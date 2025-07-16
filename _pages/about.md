@@ -95,11 +95,11 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
   <video src="/videos/embo.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
 
   <div>
-    <p>Designed a wearable puppet robot that transforms <strong>verbal aggression<\strong> into <strong>tactile pressure feedback<\strong>, addressing bullying scenarios in child–robot interaction. Combines <strong>natural language analysis<\strong> and <strong>haptic feedback<\strong> to build emotional awareness.
-</p>
+    <p>Designed a wearable puppet robot that transforms <strong>verbal aggression</strong> into <strong>tactile pressure feedback</strong>, addressing bullying scenarios in child–robot interaction. Combines <strong>natural language analysis</strong> and <strong>haptic feedback</strong> to build emotional awareness.</p>
   </div>
 
 </div>
+
 
 
 ### 🌌 **Astronomical Image Reconstruction**
