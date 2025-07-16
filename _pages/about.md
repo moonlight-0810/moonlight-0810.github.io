@@ -7,11 +7,10 @@ redirect_from:
 ---
 
 <h2 id="about-me">About Me</h2>
-Hi! I’m **Shuowen Li (李硕文)**, currently a second-year M.S. student in Optical Engineering at the **Department of Precision Instrument, Tsinghua University**, advised by Prof. [Liangcai Cao](https://www.au.tsinghua.edu.cn/info/1133/1413.htm), and collaborating closely with Prof. [Haipeng Mi](https://www.ad.tsinghua.edu.cn/info/1046/1691.htm) at the Academy of Arts & Design.
 
-I’m broadly interested in **human-AI interaction**, **computational design**, and **creative robotics**. My recent work focuses on bridging intelligent systems and generative interfaces—particularly how we can enable *semantic-driven evolution*, *co-creative storytelling*, and *affective interaction* in digital and physical lifeforms. I enjoy designing interactive systems that integrate AI, simulation, and physical prototyping, with the goal of empowering human creativity through computation.
+Hi! I’m **Shuowen Li (李硕文)**, a second-year M.S. student in Optical Engineering at **Tsinghua University**, advised by Prof. Liangcai Cao. I also work as a research intern at the **Academy of Arts & Design**, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
 
-My technical background spans **optical engineering**, **computational imaging**, and **interactive system design**, including work on lensless imaging, 3D display evaluation, and real-time astronomical image reconstruction. I’ve published research in *Optics Express*, *Fundamental Research*, and *HRI*, and submitted papers to *SIGGRAPH Asia* and *TEI*.
+My research focuses on **human–AI interaction**, **computational imaging**, and **creative robotics**. I am interested in how intelligent systems can support human creativity by enabling semantic evolution, co-creative storytelling, and generative design. Combining science and art, I build interactive systems that help people create with AI in both digital and physical contexts.
 
 Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
