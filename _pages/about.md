@@ -101,9 +101,11 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 </div>
 
+
 ### 🌌 **Astronomical Image Reconstruction**
 
 Developed a GPU-accelerated pipeline for **turbulence removal** in single-frame astronomical images using **blind deconvolution**, **deformable convolution**, and **diffusion models**. Collaborated on hardware–software co-design with a **four-aperture telescope array**.
+
 
 ### 🖼️ **3D Display Quality Assessment**
 
