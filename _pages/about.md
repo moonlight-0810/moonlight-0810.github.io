@@ -51,40 +51,43 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 ## 🧪 Projects {#projects}
 
-### 🧬 <strong>Semantic-Guided Artificial Life System</strong>
+<h2 style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">🧪 Projects</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
-
+<!-- Project Block -->
+<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; ">
   <video src="/videos/semantic_life.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-
   <div>
-    <p>Developed a real-time interactive system where users evolve digital lifeforms using <strong>natural language prompts</strong>. Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors. Enables participatory generative design in the spirit of “evolving with intention”.</p>
+    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🧬 Semantic-Guided Artificial Life System</h3>
+    <p style="font-style: italic; font-size: 0.95rem;">
+      Developed a real-time interactive system where users evolve digital lifeforms using <strong>natural language prompts</strong>.
+      Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors.
+      Enables participatory generative design in the spirit of “evolving with intention”.
+    </p>
   </div>
-
 </div>
 
-### 🤖 <strong>PuppetLine: Swarm Robotic Storytelling</strong>
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
-
+<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; ">
   <video src="/videos/toio.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-
   <div>
-    <p>Built a tangible storytelling system using <strong>Toio robots</strong> and <strong>large language models (LLMs)</strong>. Translates children’s narrative inputs into synchronized multi-robot actions and emotions. The system empowers <strong>co-creative expression</strong> through embodied interaction.</p>
+    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🤖 PuppetLine: Swarm Robotic Storytelling</h3>
+    <p style="font-style: italic; font-size: 0.95rem;">
+      Built a tangible storytelling system using <strong>Toio robots</strong> and <strong>large language models (LLMs)</strong>.
+      Translates children’s narrative inputs into synchronized multi-robot actions and emotions.
+      The system empowers <strong>co-creative expression</strong> through embodied interaction.
+    </p>
   </div>
-
 </div>
 
-### ✋ <strong>Embo: A Wearable Robot for Empathy Education</strong>
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
-
+<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; ">
   <video src="/videos/embo.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-
   <div>
-    <p>Designed a wearable puppet robot that transforms <strong>verbal aggression</strong> into <strong>tactile pressure feedback</strong>, addressing bullying scenarios in child–robot interaction. Combines <strong>natural language analysis</strong> and <strong>haptic feedback</strong> to build emotional awareness.</p>
+    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">✋ Embo: A Wearable Robot for Empathy Education</h3>
+    <p style="font-style: italic; font-size: 0.95rem;">
+      Designed a wearable puppet robot that transforms <strong>verbal aggression</strong> into <strong>tactile pressure feedback</strong>,
+      addressing bullying scenarios in child–robot interaction.
+      Combines <strong>natural language analysis</strong> and <strong>haptic feedback</strong> to build emotional awareness.
+    </p>
   </div>
-
 </div>
 
 
