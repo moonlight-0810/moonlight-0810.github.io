@@ -49,7 +49,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
 
-  <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 120px; height: auto; border: 1px solid #ccc;">
+  <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 180px; height: auto; border: 1px solid #ccc;">
 
   <div>
     <p><em>Geoff Cottrell</em>. <strong><em>Matter: A Very Short Introduction</em></strong>.<br>
