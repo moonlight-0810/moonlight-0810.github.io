@@ -14,8 +14,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
-
-<h2 style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">📄 Publications</h2>
+<h2 id="publications" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">📄 Publications</h2>
 <p style="font-size: 0.95rem; color: #666;">(* indicates co-first author)</p>
 
 <ol style="font-size: 0.96rem; line-height: 1.5; padding-left: 1.2em; margin-top: 6px;">
@@ -47,9 +46,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
-## 🧪 Projects {#projects}
-
-<h2 style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">🧪 Projects</h2>
+<h2 id="projects" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">🧪 Projects</h2>
 
 <!-- Project Block -->
 <div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; ">
