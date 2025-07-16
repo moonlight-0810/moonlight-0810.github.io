@@ -49,7 +49,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
 
-  <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 180px; height: auto; border: 1px solid #ccc;">
+  <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 160px; height: auto; border: 1px solid #ccc;">
 
   <div>
     <p><em>Geoff Cottrell</em>. <strong><em>Matter: A Very Short Introduction</em></strong>.<br>
@@ -68,7 +68,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
 
-  <video src="/videos/semantic_life.mp4" autoplay loop muted playsinline style="width: 220px; border-radius: 8px; border: 1px solid #ccc;"></video>
+  <video src="/videos/semantic_life.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
 
   <div>
     <p>Developed a real-time interactive system where users evolve digital lifeforms using <strong>natural language prompts</strong>. Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors. Enables participatory generative design in the spirit of “evolving with intention”.</p>
@@ -76,14 +76,30 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 </div>
 
+### 🤖 <strong>PuppetLine: Swarm Robotic Storytelling</strong>
 
-### 🤖 **PuppetLine: Swarm Robotic Storytelling**
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
 
-Built a tangible storytelling system using **Toio robots** and **large language models (LLMs)**. Translates children’s narrative inputs into synchronized multi-robot actions and emotions. The system empowers **co-creative expression** through embodied interaction.
+  <video src="/videos/toio.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
 
-### ✋ **Embo: A Wearable Robot for Empathy Education**
+  <div>
+    <p>Built a tangible storytelling system using <strong>Toio robots</strong> and <strong>large language models (LLMs)</strong>. Translates children’s narrative inputs into synchronized multi-robot actions and emotions. The system empowers <strong>co-creative expression</strong> through embodied interaction.</p>
+  </div>
 
-Designed a wearable puppet robot that transforms **verbal aggression** into **tactile pressure feedback**, addressing bullying scenarios in child–robot interaction. Combines **natural language analysis** and **haptic feedback** to build emotional awareness.
+</div>
+
+### ✋ <strong>Embo: A Wearable Robot for Empathy Education</strong>
+
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
+
+  <video src="/videos/embo.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
+
+  <div>
+    <p>Designed a wearable puppet robot that transforms <strong>verbal aggression<\strong> into <strong>tactile pressure feedback<\strong>, addressing bullying scenarios in child–robot interaction. Combines <strong>natural language analysis<\strong> and <strong>haptic feedback<\strong> to build emotional awareness.
+</p>
+  </div>
+
+</div>
 
 ### 🌌 **Astronomical Image Reconstruction**
 
