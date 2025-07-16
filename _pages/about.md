@@ -71,7 +71,6 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
   <video src="/videos/semantic_life.mp4" autoplay loop muted playsinline style="width: 220px; border-radius: 8px; border: 1px solid #ccc;"></video>
 
   <div>
-    <p><em>Academy of Arts & Design, Tsinghua University (2023–present)</em></p>
     <p>Developed a real-time interactive system where users evolve digital lifeforms using <strong>natural language prompts</strong>. Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors. Enables participatory generative design in the spirit of “evolving with intention”.</p>
   </div>
 
@@ -80,25 +79,17 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 ### 🤖 **PuppetLine: Swarm Robotic Storytelling**
 
-*Academy of Arts & Design, Tsinghua University (2024–present)*
-
 Built a tangible storytelling system using **Toio robots** and **large language models (LLMs)**. Translates children’s narrative inputs into synchronized multi-robot actions and emotions. The system empowers **co-creative expression** through embodied interaction.
 
 ### ✋ **Embo: A Wearable Robot for Empathy Education**
-
-*Academy of Arts & Design, Tsinghua University (2023)*
 
 Designed a wearable puppet robot that transforms **verbal aggression** into **tactile pressure feedback**, addressing bullying scenarios in child–robot interaction. Combines **natural language analysis** and **haptic feedback** to build emotional awareness.
 
 ### 🌌 **Astronomical Image Reconstruction**
 
-*Dept. of Precision Instrument, Tsinghua University (2022–2025)*
-
 Developed a GPU-accelerated pipeline for **turbulence removal** in single-frame astronomical images using **blind deconvolution**, **deformable convolution**, and **diffusion models**. Collaborated on hardware–software co-design with a **four-aperture telescope array**.
 
 ### 🖼️ **3D Display Quality Assessment**
-
-*Dept. of Precision Instrument, Tsinghua University (2022–2024)*
 
 Proposed a hybrid evaluation framework for **glasses-free 3D displays**, integrating **optical metrics** and **human visual comfort** analysis. Contributed to drafting **industry standards** for autostereoscopic display technologies.
 
