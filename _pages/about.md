@@ -19,29 +19,29 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 ## 📄 Publications {#publications}
 
-(\* indicates co-first author)
+(\* indicates co-first author) 
 
-1. Shihan Qiu\*, Yuhan Xie\*, **Shuowen Li**\*, Wei Guo, Xiaoyue Gao, Yijie Guo.
-   *Embo: A Wearable Robot Transforming Child-Directed Verbal Aggression into Tactile Feedback*.
-   In: *ACM/IEEE International Conference on Human-Robot Interaction (HRI '24) Companion*, 2024, pp. 857–861.
-
-2. **Shuowen Li**, Kexin Wang, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun.
+1. **Shuowen Li**, Kexin Wang, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun.
    *Participatory Evolution of Artificial Life Systems via Semantic Feedback*.
    Submitted to *SIGGRAPH Asia 2025 Art Papers*. (*Under Review*)
 
-3. Ruhan Wang, **Shuowen Li**, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi.
+2. Ruhan Wang, **Shuowen Li**, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi.
    *PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots*.
    Submitted to *TEI 2026*. (*Under Review*)
 
-4. **Shuowen Li**, Liangcai Cao.
+3. Shihan Qiu\*, Yuhan Xie\*, **Shuowen Li**\*, Wei Guo, Xiaoyue Gao, Yijie Guo.
+   *Embo: A Wearable Robot Transforming Child-Directed Verbal Aggression into Tactile Feedback*.
+   In: *ACM/IEEE International Conference on Human-Robot Interaction (HRI '24) Companion*, 2024, pp. 857–861.
+
+5. **Shuowen Li**, Liangcai Cao.
    *Multidimensional Crosstalk Analysis in Autostereoscopic Displays: Integrating Subjective and Objective Evaluations for Image Quality Assessment*.
    *Optics Express*, 33(8), 2025, pp. 16911–16924.
 
-5. **Shuowen Li**, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao.
+6. **Shuowen Li**, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao.
    *Lensless Camera: Unraveling the Breakthroughs and Prospects*.
    *Fundamental Research*, 2024. (*In Press*)
 
-6. **Shuowen Li**, Yunhui Gao, Jiachen Wu, Liangcai Cao.
+7. **Shuowen Li**, Yunhui Gao, Jiachen Wu, Liangcai Cao.
    *Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method*.
    *Optics Express*, 32(20), 2024, pp. 35579–35593.
 
