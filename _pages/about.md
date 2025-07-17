@@ -14,38 +14,6 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
-<h2 id="publications" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">📄 Publications</h2>
-<p style="font-size: 0.95rem; color: #666;">(* indicates co-first author)</p>
-
-<ol style="font-size: 0.96rem; line-height: 1.5; padding-left: 1.2em; margin-top: 6px;">
-  <li><strong>Shuowen Li</strong>, Kexin Wang, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. <em>Participatory Evolution of Artificial Life Systems via Semantic Feedback</em>. Submitted to <em>SIGGRAPH Asia 2025 Art Papers</em>. <span style="color: #888;"><em>(Under Review)</em></span></li>
-  <li>Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi. <em>PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots</em>. Submitted to <em>TEI 2026</em>. <span style="color: #888;"><em>(Under Review)</em></span></li>
-  <li>Shihan Qiu<sup>*</sup>, Yuhan Xie<sup>*</sup>, <strong>Shuowen Li</strong><sup>*</sup>, Wei Guo, Xiaoyue Gao, Yijie Guo. <em>Embo: A Wearable Robot Transforming Child-Directed Verbal Aggression into Tactile Feedback</em>. In: <em>ACM/IEEE International Conference on Human-Robot Interaction (HRI '24) Companion</em>, 2024, pp. 857–861.</li>
-  <li><strong>Shuowen Li</strong>, Liangcai Cao. <em>Multidimensional Crosstalk Analysis in Autostereoscopic Displays: Integrating Subjective and Objective Evaluations for Image Quality Assessment</em>. <em>Optics Express</em>, 33(8), 2025, pp. 16911–16924.</li>
-  <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao. <em>Lensless Camera: Unraveling the Breakthroughs and Prospects</em>. <em>Fundamental Research</em>, 2024. <span style="color: #888;"><em>(In Press)</em></span></li>
-  <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Liangcai Cao. <em>Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method</em>. <em>Optics Express</em>, 32(20), 2024, pp. 35579–35593.</li>
-</ol>
-
-
-
-
-### 📘 Book Translation
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
-
-  <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 160px; height: auto; border: 1px solid #ccc;">
-
-  <div>
-    <p><em>Geoff Cottrell</em>. <strong><em>Matter: A Very Short Introduction</em></strong>.<br>
-    Translated by Xiang Liu, <strong>Shuowen Li</strong>, Jiageng Li.<br>
-    Yilin Press, 2024. ISBN: 9787575301671.</p>
-    <p><em>A concise yet wide-ranging introduction to matter, guiding readers through its forms from fundamental particles to cosmic structures—with clarity and accessibility.</em></p>
-  </div>
-
-</div>
-
-
-
 <h2 id="projects" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">🧪 Projects</h2>
 
 <!-- Project Block -->
@@ -111,7 +79,32 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 </div>
 
 
+<h2 id="publications" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">📄 Publications</h2>
+<p style="font-size: 0.95rem; color: #666;">(* indicates co-first author)</p>
 
+<ol style="font-size: 0.96rem; line-height: 1.5; padding-left: 1.2em; margin-top: 6px;">
+  <li><strong>Shuowen Li</strong>, Kexin Wang, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. <em>Participatory Evolution of Artificial Life Systems via Semantic Feedback</em>. Submitted to <em>SIGGRAPH Asia 2025 Art Papers</em>. <span style="color: #888;"><em>(Under Review)</em></span></li>
+  <li>Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi. <em>PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots</em>. Submitted to <em>TEI 2026</em>. <span style="color: #888;"><em>(Under Review)</em></span></li>
+  <li>Shihan Qiu<sup>*</sup>, Yuhan Xie<sup>*</sup>, <strong>Shuowen Li</strong><sup>*</sup>, Wei Guo, Xiaoyue Gao, Yijie Guo. <em>Embo: A Wearable Robot Transforming Child-Directed Verbal Aggression into Tactile Feedback</em>. In: <em>ACM/IEEE International Conference on Human-Robot Interaction (HRI '24) Companion</em>, 2024, pp. 857–861.</li>
+  <li><strong>Shuowen Li</strong>, Liangcai Cao. <em>Multidimensional Crosstalk Analysis in Autostereoscopic Displays: Integrating Subjective and Objective Evaluations for Image Quality Assessment</em>. <em>Optics Express</em>, 33(8), 2025, pp. 16911–16924.</li>
+  <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao. <em>Lensless Camera: Unraveling the Breakthroughs and Prospects</em>. <em>Fundamental Research</em>, 2024. <span style="color: #888;"><em>(In Press)</em></span></li>
+  <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Liangcai Cao. <em>Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method</em>. <em>Optics Express</em>, 32(20), 2024, pp. 35579–35593.</li>
+</ol>
+
+### 📘 Book Translation
+
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
+
+  <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 160px; height: auto; border: 1px solid #ccc;">
+
+  <div>
+    <p><em>Geoff Cottrell</em>. <strong><em>Matter: A Very Short Introduction</em></strong>.<br>
+    Translated by Xiang Liu, <strong>Shuowen Li</strong>, Jiageng Li.<br>
+    Yilin Press, 2024. ISBN: 9787575301671.</p>
+    <p><em>A concise yet wide-ranging introduction to matter, guiding readers through its forms from fundamental particles to cosmic structures—with clarity and accessibility.</em></p>
+  </div>
+
+</div>
 
 
 ## 🎯 Research Interests {#interests}
