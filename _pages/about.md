@@ -56,12 +56,12 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
-  <video src="/videos/机械臂.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
+  <img src="/videos/CSST.gif" alt="Astronomical reconstruction" style="width: 200px; border-radius: 8px; border: 1px solid #ccc;">
   <div>
-    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🖼️ 3D Display Quality Assessment</h3>
+    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🌌 Astronomical Image Reconstruction</h3>
     <p style="font-style: italic; font-size: 0.95rem;">
-      Proposed a hybrid evaluation framework for <strong>glasses-free 3D displays</strong>, integrating <strong>optical metrics</strong> and <strong>human visual comfort</strong> analysis.
-      Contributed to drafting <strong>industry standards</strong> for autostereoscopic display technologies.
+      Developed a GPU-accelerated pipeline for <strong>turbulence removal</strong> in single-frame astronomical images using <strong>blind deconvolution</strong>, <strong>deformable convolution</strong>, and <strong>diffusion models</strong>.
+      Collaborated on hardware–software co-design with a <strong>four-aperture telescope array</strong>.
     </p>
   </div>
 </div>
