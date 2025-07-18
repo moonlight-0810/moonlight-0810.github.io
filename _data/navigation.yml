@@ -30,6 +30,7 @@
 #   #   url: /cv-json/
     
 #   - title: "Guide"
+    # url: /markdown/
 main:
   - title: "About"
     url: /#about-me
@@ -49,7 +50,6 @@ main:
   - title: "CV"
     url: /assets/CV_Shuowen_Li.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
-    url: /markdown/
