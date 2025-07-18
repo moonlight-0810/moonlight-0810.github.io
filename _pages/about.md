@@ -115,13 +115,10 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 </ol>
 
 
-### 📘 Book Translation
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 10px;">
-
+<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 30px;">
   <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 160px; height: auto; border: 1px solid #ccc;">
-
   <div>
+    <h3 style="margin-top: 0; font-size: 1.2rem;">📘 Book Translation</h3>
     <p><em>Geoff Cottrell</em>. 
       <strong><em>
         <a href="https://read.douban.com/ebook/479553544/" target="_blank" style="color: #0056b3; text-decoration: none;">
@@ -131,10 +128,12 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
       Translated by Xiang Liu, <strong>Shuowen Li</strong>, Jiageng Li.<br>
       Yilin Press, 2024. ISBN: 9787575301671.
     </p>
-    <p><em>A concise yet wide-ranging introduction to matter, guiding readers through its forms from fundamental particles to cosmic structures—with clarity and accessibility.</em></p>
+    <p style="margin-top: 8px;">
+      <em>A concise yet wide-ranging introduction to matter, guiding readers through its forms from fundamental particles to cosmic structures—with clarity and accessibility.</em>
+    </p>
   </div>
-
 </div>
+
 
 
 
