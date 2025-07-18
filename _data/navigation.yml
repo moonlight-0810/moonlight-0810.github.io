@@ -49,7 +49,7 @@ main:
   - title: "CV"
     url: /assets/CV_Shuowen_Li.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
     url: /markdown/
