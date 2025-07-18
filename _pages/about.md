@@ -76,6 +76,8 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 </div>
 
 
+<h2 id="publications" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">📄 Publications</h2>
+<p style="font-size: 0.95rem; color: #666;">(* indicates co-first author)</p>
 
 <ol style="font-size: 0.96rem; line-height: 1.5; padding-left: 1.2em; margin-top: 6px;">
   <li><strong>Shuowen Li</strong>, Kexin Wang, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. 
