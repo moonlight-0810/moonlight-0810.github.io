@@ -20,11 +20,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 <div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
   <video src="/videos/semantic_life.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
   <div>
-    <h3 style="margin-top: 0; font-size: 1.25rem;">
-      <a href="{{ '/projects/semantic-life.html' | relative_url }}" target="_blank" style="color: #0066cc; text-decoration: none;">
-        🧬 Semantic-Guided Artificial Life System
-      </a>
-    </h3>
+    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🧬 Semantic-Guided Artificial Life System</h3>
     <p style="font-style: italic; font-size: 0.95rem;">
       Developed a real-time interactive system where users evolve digital lifeforms using <strong>natural language prompts</strong>.
       Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors.
