@@ -44,6 +44,9 @@ main:
   - title: "Publications"
     url: /#publications
 
+  - title: "Skills"
+    url: /#skills
+
   - title: "Interests"
     url: /#interests
 
