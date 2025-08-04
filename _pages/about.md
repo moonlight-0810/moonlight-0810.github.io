@@ -136,10 +136,13 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 </div>
 
 
+## Skills {#skills}
+
+* **Programming**: Python, MATLAB, Java, C++
+* **Softwares**: Blender, Unity, SolidWorks, Arduino, Adobe Illustrator, Lumerical FDTD, Zemax
 
 
-
-## 🎯 Research Interests {#interests}
+## Research Interests {#interests}
 
 * **Human–AI Co-Creation**: Designing interactive systems that fuse generative AI with human intention, language, and emotion.
 * **Computational Design Tools**: Building tools for evolving, simulating, and editing digital forms—across visual, spatial, and behavioral dimensions.
