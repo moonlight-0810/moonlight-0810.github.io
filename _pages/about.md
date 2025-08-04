@@ -66,6 +66,18 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 </div>
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
+  <video src="/videos/holo interaction.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
+  <div>
+    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🪞 Holographic Interaction System</h3>
+    <p style="font-style: italic; font-size: 0.95rem;">
+      Developed an interactive system that combines <strong>holographic 3D projection</strong> and <strong>hand-tracking sensors</strong>.
+      Enables <strong>contactless, real-time interaction</strong> with floating 3D visuals through gesture recognition.
+      Demonstrates the potential of holography in immersive and intuitive human–computer interfaces.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
   <img src="/videos/CSST.gif" alt="Astronomical reconstruction" style="width: 200px; border-radius: 8px; border: 1px solid #ccc;">
   <div>
     <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🌌 Astronomical Image Reconstruction</h3>
