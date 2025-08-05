@@ -29,6 +29,18 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
   </div>
 </div>
 
+<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
+  <video src="/videos/houxi.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
+  <div>
+    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🐒 Houxi: Swarm Robotic Theater</h3>
+    <p style="font-style: italic; font-size: 0.95rem;">
+      Created a swarm-based storytelling system inspired by the Chinese fable <strong>“The Monkeys and the Moon”</strong>.
+      Robots perform on a tabletop stage using <strong>path dynamics</strong> and <strong>spatial formations</strong> to convey plot and emotion.
+      Dynamic projection enriches the narrative with vivid scenery and interactive visual cues.
+    </p>
+  </div>
+</div>
+
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; ">
   <video src="/videos/toio.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
