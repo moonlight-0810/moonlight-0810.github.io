@@ -6,11 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  .page__content { font-size: 0.92rem; line-height: 1.6;
-    font-family:"Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
-  .page__content h1{ font-size:1.6rem } .page__content h2{ font-size:1.2rem }
-</style>
 
 Hi! I’m **Shuowen Li (李硕文)**, a third-year M.S. student in Optical Engineering at **Tsinghua University**, advised by Prof. Liangcai Cao. I also work as a research intern at the **Academy of Arts & Design**, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
 
