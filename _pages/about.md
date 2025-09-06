@@ -102,7 +102,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 <h2 id="publications" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">📄 Publications</h2>
-<p style="font-size: 0.95rem; color: #666;">(* indicates co-first author)</p>
+<p style="font-size: 0.95rem; color: #666;">(* denotes equal contribution)</p>
 
 <ol style="font-size: 0.96rem; line-height: 1.5; padding-left: 1.2em; margin-top: 6px;">
   <li><strong>Shuowen Li</strong><sup>*</sup>, Kexin Wang<sup>*</sup>, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. 
@@ -119,8 +119,6 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
     <em><a href="https://dl.acm.org/doi/abs/10.1145/3610978.3640616" target="_blank" style="color: #0056b3; text-decoration: none;">Embo: A Wearable Robot Transforming Child-Directed Verbal Aggression into Tactile Feedback</a></em>. 
     In: <em>ACM/IEEE International Conference on Human-Robot Interaction (HRI '24) Companion</em>, 2024, pp. 857–861.
   </li>
-
-
 
 <li><strong>Shuowen Li</strong>, Liangcai Cao. 
   <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-8-16911&id=570059" target="_blank" style="color: #0056b3; text-decoration: none;">Multidimensional Crosstalk Analysis in Autostereoscopic Displays: Integrating Subjective and Objective Evaluations for Image Quality Assessment</a></em>. 
