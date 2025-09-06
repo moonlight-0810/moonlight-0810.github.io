@@ -134,7 +134,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
     <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-20-35579&id=559910" target="_blank" style="color: #0056b3; text-decoration: none;">Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method</a></em>. 
     <em>Optics Express</em> <span style="color:#666;">（JCR Q2，IF 3.3）</span>, 32(20), 2024, pp. 35579–35593.
   </li>
-
+</ol>
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 30px;">
   <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 160px; height: auto; border: 1px solid #ccc;">
