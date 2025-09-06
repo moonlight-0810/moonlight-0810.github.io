@@ -106,7 +106,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 <ol style="font-size: 0.96rem; line-height: 1.5; padding-left: 1.2em; margin-top: 6px;">
   <li><strong>Shuowen Li</strong>, Kexin Wang, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. 
-    <em><a href="[https://dl.acm.org/doi/abs/10.1145/3610978.3640616](https://arxiv.org/pdf/2507.03839)" target="_blank" style="color: #0056b3; text-decoration: none;">Participatory Evolution of Artificial Life Systems via Semantic Feedback</a></em>. 
+    <em><a href="https://arxiv.org/pdf/2507.03839" target="_blank" style="color: #0056b3; text-decoration: none;">Participatory Evolution of Artificial Life Systems via Semantic Feedback</a></em>. 
     In: <em>SIGGRAPH Asia 2025 Art Papers</em>. 
   </li>
 
