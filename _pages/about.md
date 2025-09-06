@@ -127,7 +127,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
   <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao. 
     <em><a href="https://www.sciencedirect.com/science/article/pii/S2667325824001328" target="_blank" style="color: #0056b3; text-decoration: none;">Lensless Camera: Unraveling the Breakthroughs and Prospects</a></em>. 
-    <em>Fundamental Research</em>, 2024. 
+    <em>Fundamental Research</em>, 5(4), 2025, pp. 1725-1736.
   </li>
 
   <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Liangcai Cao. 
