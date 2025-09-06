@@ -105,14 +105,14 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 <p style="font-size: 0.95rem; color: #666;">(* indicates co-first author)</p>
 
 <ol style="font-size: 0.96rem; line-height: 1.5; padding-left: 1.2em; margin-top: 6px;">
-  <li><strong>Shuowen Li</strong>, Kexin Wang, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. 
+  <li><strong>Shuowen Li</strong><sup>*</sup>, Kexin Wang<sup>*</sup>, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. 
     <em><a href="https://arxiv.org/pdf/2507.03839" target="_blank" style="color: #0056b3; text-decoration: none;">Participatory Evolution of Artificial Life Systems via Semantic Feedback</a></em>. 
     In: <em>SIGGRAPH Asia 2025 Art Papers</em>. 
   </li>
 
   <li>Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi. 
     <em>PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots</em>. 
-    Submitted to <em>TEI 2026</em>. 
+    In: <em>Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST), 2025.</em>. 
   </li>
 
   <li>Shihan Qiu<sup>*</sup>, Yuhan Xie<sup>*</sup>, <strong>Shuowen Li</strong><sup>*</sup>, Wei Guo, Xiaoyue Gao, Yijie Guo. 
@@ -128,7 +128,6 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
   <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao. 
     <em><a href="https://www.sciencedirect.com/science/article/pii/S2667325824001328" target="_blank" style="color: #0056b3; text-decoration: none;">Lensless Camera: Unraveling the Breakthroughs and Prospects</a></em>. 
     <em>Fundamental Research</em>, 2024. 
-    <span style="color: #888;"><em>(In Press)</em></span>
   </li>
 
   <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Liangcai Cao. 
