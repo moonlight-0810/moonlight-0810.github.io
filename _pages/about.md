@@ -1,3 +1,10 @@
+<style>
+  .page__content { font-size: 0.92rem; line-height: 1.6;
+    font-family:"Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  .page__content h1{ font-size:1.6rem } .page__content h2{ font-size:1.2rem }
+</style>
+
+
 ---
 permalink: /
 author_profile: true
