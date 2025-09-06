@@ -120,20 +120,20 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
     In: <em>ACM/IEEE International Conference on Human-Robot Interaction (HRI '24) Companion</em>, 2024, pp. 857–861.
   </li>
 
-<li><strong>Shuowen Li</strong>, Liangcai Cao. 
-  <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-8-16911&id=570059" target="_blank" style="color: #0056b3; text-decoration: none;">Multidimensional Crosstalk Analysis in Autostereoscopic Displays: Integrating Subjective and Objective Evaluations for Image Quality Assessment</a></em>. 
-  <em>Optics Express</em> <span style="color:#666;">（JCR Q2，IF 3.3）</span>, 33(8), 2025, pp. 16911–16924.
-</li>
-
-<li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao. 
-  <em><a href="https://www.sciencedirect.com/science/article/pii/S2667325824001328" target="_blank" style="color: #0056b3; text-decoration: none;">Lensless Camera: Unraveling the Breakthroughs and Prospects</a></em>. 
-  <em>Fundamental Research</em> <span style="color:#666;">（JCR Q1，IF 6.3）</span>, 5(4), 2025, pp. 1725–1736.
-</li>
-
-<li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Liangcai Cao. 
-  <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-20-35579&id=559910" target="_blank" style="color: #0056b3; text-decoration: none;">Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method</a></em>. 
-  <em>Optics Express</em> <span style="color:#666;">（JCR Q2，IF 3.3）</span>, 32(20), 2024, pp. 35579–35593.
-</li>
+  <li><strong>Shuowen Li</strong>, Liangcai Cao. 
+    <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-8-16911&id=570059" target="_blank" style="color: #0056b3; text-decoration: none;">Multidimensional Crosstalk Analysis in Autostereoscopic Displays: Integrating Subjective and Objective Evaluations for Image Quality Assessment</a></em>. 
+    <em>Optics Express</em> <span style="color:#666;">（JCR Q2，IF 3.3）</span>, 33(8), 2025, pp. 16911–16924.
+  </li>
+  
+  <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao. 
+    <em><a href="https://www.sciencedirect.com/science/article/pii/S2667325824001328" target="_blank" style="color: #0056b3; text-decoration: none;">Lensless Camera: Unraveling the Breakthroughs and Prospects</a></em>. 
+    <em>Fundamental Research</em> <span style="color:#666;">（JCR Q1，IF 6.3）</span>, 5(4), 2025, pp. 1725–1736.
+  </li>
+  
+  <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Liangcai Cao. 
+    <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-20-35579&id=559910" target="_blank" style="color: #0056b3; text-decoration: none;">Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method</a></em>. 
+    <em>Optics Express</em> <span style="color:#666;">（JCR Q2，IF 3.3）</span>, 32(20), 2024, pp. 35579–35593.
+  </li>
 
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 30px;">
