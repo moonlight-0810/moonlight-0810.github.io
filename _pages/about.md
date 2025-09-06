@@ -108,13 +108,11 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
   <li><strong>Shuowen Li</strong>, Kexin Wang, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. 
     <em>Participatory Evolution of Artificial Life Systems via Semantic Feedback</em>. 
     Submitted to <em>SIGGRAPH Asia 2025 Art Papers</em>. 
-    <span style="color: #888;"><em>(Under Review)</em></span>
   </li>
 
   <li>Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi. 
     <em>PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots</em>. 
     Submitted to <em>TEI 2026</em>. 
-    <span style="color: #888;"><em>(Under Review)</em></span>
   </li>
 
   <li>Shihan Qiu<sup>*</sup>, Yuhan Xie<sup>*</sup>, <strong>Shuowen Li</strong><sup>*</sup>, Wei Guo, Xiaoyue Gao, Yijie Guo. 
