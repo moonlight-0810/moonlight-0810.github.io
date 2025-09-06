@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Shuowen Li (李硕文)**, a second-year M.S. student in Optical Engineering at **Tsinghua University**, advised by Prof. Liangcai Cao. I also work as a research intern at the **Academy of Arts & Design**, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
+Hi! I’m **Shuowen Li (李硕文)**, a third-year M.S. student in Optical Engineering at **Tsinghua University**, advised by Prof. Liangcai Cao. I also work as a research intern at the **Academy of Arts & Design**, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
 
 My research focuses on **human–AI interaction**, **computational imaging**, and **creative robotics**. I am interested in how intelligent systems can support human creativity by enabling semantic evolution, co-creative storytelling, and generative design. Combining science and art, I build interactive systems that help people create with AI in both digital and physical contexts.
 
