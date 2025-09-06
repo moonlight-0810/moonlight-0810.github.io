@@ -22,7 +22,7 @@ repository               : "moonlight-0810/moonlight-0810.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shuowen.jpg"
   name             : "Shuowen Li （李硕文）"
   pronouns         : "Tsinghua University"  
   bio              : "HCI researcher with interdisciplinary background in engineering & design."
