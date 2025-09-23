@@ -169,7 +169,7 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 * **Human–AI Co-Creation**: Designing interactive systems that fuse generative AI with human intention, language, and emotion.
 * **Computational Design Tools**: Building tools for evolving, simulating, and editing digital forms—across visual, spatial, and behavioral dimensions.
+* **Interactive 3D Technologies**: Creating spatial computing and fabrication methods that connect digital content with the physical world.
 * **Creative Robotics & Embodied Interaction**: Leveraging swarm behavior, wearable tech, and storytelling to create expressive physical interactions.
-* **Computational Imaging**: From lensless cameras to astronomical deblurring, exploring inverse problems in optical system design.
 * **Visual Perception & Evaluation**: Studying how humans perceive 3D content, depth, and image quality, and modeling this in computational terms.
 
