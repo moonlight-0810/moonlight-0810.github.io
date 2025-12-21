@@ -91,7 +91,6 @@ redirect_from:
   align-items: flex-start;
   gap: 30px;
   margin-top: 30px;
-  line-height: 2;
 }
 .book-cover{
   width: 160px;
@@ -102,6 +101,7 @@ redirect_from:
   margin: 0;
   font-size: 1.12rem;
   font-weight: 600;
+  line-height: 2;
 }
 .book-desc{
   margin: 10px 0 0 0;
