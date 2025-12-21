@@ -107,6 +107,18 @@ redirect_from:
   margin: 10px 0 0 0;
   color: #374151;
 }
+
+/* skills & interests lists */
+.simple-list{
+  font-size: 0.85rem;     /* ✅ 这里控制 Skills/Interests 的字号 */
+  line-height: 1.8;       /* ✅ 这里控制行距 */
+  padding-left: 1.2em;
+  margin: 8px 0 0 0;
+  color: #374151;
+}
+.simple-list li{
+  margin: 0 0 8px 0;
+}
 </style>
 
 <div class="home-wrap">
@@ -281,20 +293,23 @@ redirect_from:
     </div>
   </div>
 
+
+<h2 id="skills" class="section-title">🛠️ Skills</h2>
+
+<ul class="simple-list">
+  <li><strong>Programming</strong>: Python, MATLAB, Java, C++</li>
+  <li><strong>Softwares</strong>: Blender, Unity, SolidWorks, Arduino, Adobe Illustrator, Lumerical FDTD, Zemax</li>
+</ul>
+
+<h2 id="interests" class="section-title">🔎 Research Interests</h2>
+
+<ul class="simple-list">
+  <li><strong>Human–AI Co-Creation</strong>: Designing interactive systems that fuse generative AI with human intention, language, and emotion.</li>
+  <li><strong>Computational Design Tools</strong>: Building tools for evolving, simulating, and editing digital forms—across visual, spatial, and behavioral dimensions.</li>
+  <li><strong>Interactive 3D Technologies</strong>: Creating spatial computing and fabrication methods that connect digital content with the physical world.</li>
+  <li><strong>Creative Robotics &amp; Embodied Interaction</strong>: Leveraging swarm behavior, wearable tech, and storytelling to create expressive physical interactions.</li>
+  <li><strong>Visual Perception &amp; Evaluation</strong>: Studying how humans perceive 3D content, depth, and image quality, and modeling this in computational terms.</li>
+</ul>
+
+
 </div>
-
-
-## Skills {#skills}
-
-* **Programming**: Python, MATLAB, Java, C++
-* **Softwares**: Blender, Unity, SolidWorks, Arduino, Adobe Illustrator, Lumerical FDTD, Zemax
-
-
-## Research Interests {#interests}
-
-* **Human–AI Co-Creation**: Designing interactive systems that fuse generative AI with human intention, language, and emotion.
-* **Computational Design Tools**: Building tools for evolving, simulating, and editing digital forms—across visual, spatial, and behavioral dimensions.
-* **Interactive 3D Technologies**: Creating spatial computing and fabrication methods that connect digital content with the physical world.
-* **Creative Robotics & Embodied Interaction**: Leveraging swarm behavior, wearable tech, and storytelling to create expressive physical interactions.
-* **Visual Perception & Evaluation**: Studying how humans perceive 3D content, depth, and image quality, and modeling this in computational terms.
-
