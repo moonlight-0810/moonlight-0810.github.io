@@ -30,7 +30,7 @@ redirect_from:
 
 /* section title (Projects / Publications) */
 .section-title{
-  font-size: 1.45rem;          /* section header size */
+  font-size: 1.3rem;          /* section header size */
   font-weight: 600;
   border-bottom: 2px solid #ccc;
   padding-bottom: 4px;
