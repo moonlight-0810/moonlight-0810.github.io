@@ -18,7 +18,7 @@ My research focuses on **human–AI interaction**, **computational imaging**, **
 <style>
 /* overall typography on this page */
 .home-wrap{
-  font-size: 0.95rem;          /* overall body text size */
+  font-size: 0.75rem;          /* overall body text size */
   line-height: 1.65;
   color: #1f2937;
   font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Helvetica Neue", Arial,
