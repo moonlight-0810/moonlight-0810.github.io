@@ -107,12 +107,24 @@ redirect_from:
 </style>
 
 <div class="home-wrap">
+  <p>
+    Hi! I’m <strong>Shuowen Li (李硕文)</strong>, a third-year M.S. student in Optical Engineering at
+    <strong>Tsinghua University</strong>, advised by Prof. Liangcai Cao. I also work as a research intern at the
+    <strong>Academy of Arts &amp; Design</strong>, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from
+    Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
+  </p>
 
-  Hi! I’m <strong>Shuowen Li (李硕文)</strong>, a third-year M.S. student in Optical Engineering at **Tsinghua University**, advised by Prof. Liangcai Cao. I also work as a research intern at the **Academy of Arts & Design**, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
+  <p>
+    My research focuses on <strong>human–AI interaction</strong>, <strong>computational imaging</strong>, <strong>3D display</strong>, and
+    <strong>creative robotics</strong>. I am particularly interested in how intelligent systems can support and extend human creativity,
+    and I also hope to explore how optical technologies can enable novel forms of interaction and 3D experiences. By combining engineering
+    and art, my goal is to develop interactive systems that empower people to create with AI across both digital and physical domains.
+  </p>
 
-  My research focuses on **human–AI interaction**, **computational imaging**, **3D display**, and **creative robotics**. I am particularly interested in how intelligent systems can support and extend human creativity, and I also hope to explore how optical technologies can enable novel forms of interaction and 3D experiences. By combining engineering and art, my goal is to develop interactive systems that empower people to create with AI across both digital and physical domains.
-  
-  Check out my <a href="../assets/CV_Shuowen_Li.pdf">CV</a> for more!
+  <p>
+    Check out my <a href="../assets/CV_Shuowen_Li.pdf">CV</a> for more!
+  </p>
+</div>
 
   <h2 id="projects" class="section-title">🧪 Projects</h2>
 
