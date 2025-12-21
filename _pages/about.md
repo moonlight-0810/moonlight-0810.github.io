@@ -89,7 +89,7 @@ redirect_from:
 .book-block{
   display: flex;
   align-items: flex-start;
-  gap: 16px;
+  gap: 30px;
   margin-top: 30px;
 }
 .book-cover{
