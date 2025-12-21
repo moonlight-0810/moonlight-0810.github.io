@@ -59,7 +59,7 @@ redirect_from:
 }
 .project-desc{
   font-style: italic;
-  font-size: 0.92rem;          /* project description size */
+  font-size: 0.8rem;          /* project description size */
   color: #4b5563;
   margin: 8px 0 0 0;
 }
