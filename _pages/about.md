@@ -15,147 +15,264 @@ Check out my [CV](../assets/CV_Shuowen_Li.pdf) for more!
 
 
 
-<h2 id="projects" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">🧪 Projects</h2>
+<!-- =========================
+  Page-local styles (easy to tweak)
+========================= -->
+<style>
+/* overall typography on this page */
+.home-wrap{
+  font-size: 0.95rem;          /* overall body text size */
+  line-height: 1.65;
+  color: #1f2937;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Helvetica Neue", Arial,
+               "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+}
 
-<!-- Project Block -->
-<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
-  <video src="/videos/semantic_life.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-  <div>
-    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🧬 Semantic-Guided Artificial Life System</h3>
-    <p style="font-style: italic; font-size: 0.95rem;">
-      Developed a real-time interactive system where users evolve digital lifeforms using <strong>natural language prompts</strong>.
-      Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors.
-      Enables participatory generative design in the spirit of “evolving with intention”.
-    </p>
+/* links */
+.home-wrap a{
+  color: #0056b3;
+  text-decoration: none;
+}
+.home-wrap a:hover{
+  text-decoration: underline;
+}
+
+/* section title (Projects / Publications) */
+.section-title{
+  font-size: 1.45rem;          /* section header size */
+  font-weight: 600;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 4px;
+  margin-top: 40px;
+  margin-bottom: 18px;
+}
+
+/* project block layout */
+.project-block{
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+}
+.project-media{
+  width: 200px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  background: #fff;
+}
+.project-title{
+  color: #0066cc;
+  margin: 0;
+  font-size: 1.15rem;          /* project title size */
+  font-weight: 600;
+}
+.project-desc{
+  font-style: italic;
+  font-size: 0.92rem;          /* project description size */
+  color: #4b5563;
+  margin: 8px 0 0 0;
+}
+
+/* publications */
+.pub-note{
+  font-size: 0.92rem;
+  color: #6b7280;
+  margin: 0 0 8px 0;
+}
+.pub-list{
+  font-size: 0.94rem;
+  line-height: 1.55;
+  padding-left: 1.2em;
+  margin: 6px 0 0 0;
+}
+.pub-list li{
+  margin: 0 0 10px 0;
+}
+.pub-meta{
+  color: #6b7280;
+}
+
+/* book translation block */
+.book-block{
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-top: 30px;
+}
+.book-cover{
+  width: 160px;
+  height: auto;
+  border: 1px solid #ccc;
+}
+.book-title{
+  margin: 0;
+  font-size: 1.12rem;
+  font-weight: 600;
+}
+.book-desc{
+  margin: 10px 0 0 0;
+  color: #374151;
+}
+</style>
+
+<div class="home-wrap">
+
+  <!-- Your existing intro above remains unchanged -->
+  <!-- Keep: "Check out my CV..." line -->
+  Check out my <a href="../assets/CV_Shuowen_Li.pdf">CV</a> for more!
+
+  <h2 id="projects" class="section-title">🧪 Projects</h2>
+
+  <!-- Project 1 -->
+  <div class="project-block">
+    <video src="/videos/semantic_life.mp4" autoplay loop muted playsinline class="project-media"></video>
+    <div>
+      <h3 class="project-title">🧬 Semantic-Guided Artificial Life System</h3>
+      <p class="project-desc">
+        Developed a real-time interactive system where users evolve digital lifeforms using <strong>natural language prompts</strong>.
+        Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors.
+        Enables participatory generative design in the spirit of “evolving with intention”.
+      </p>
+    </div>
   </div>
-</div>
 
-<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
-  <video src="/videos/houxi.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-  <div>
-    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🐒 Houxi: Swarm Robotic Theater</h3>
-    <p style="font-style: italic; font-size: 0.95rem;">
-      Created a swarm-based storytelling system inspired by the Chinese fable <strong>“The Monkeys and the Moon”</strong>.
-      Robots perform on a tabletop stage using <strong>path dynamics</strong> and <strong>spatial formations</strong> to convey plot and emotion.
-      Dynamic projection enriches the narrative with vivid scenery and interactive visual cues.
-    </p>
+  <!-- Project 2 -->
+  <div class="project-block">
+    <video src="/videos/houxi.mp4" autoplay loop muted playsinline class="project-media"></video>
+    <div>
+      <h3 class="project-title">🐒 Houxi: Swarm Robotic Theater</h3>
+      <p class="project-desc">
+        Created a swarm-based storytelling system inspired by the Chinese fable <strong>“The Monkeys and the Moon”</strong>.
+        Robots perform on a tabletop stage using <strong>path dynamics</strong> and <strong>spatial formations</strong> to convey plot and emotion.
+        Dynamic projection enriches the narrative with vivid scenery and interactive visual cues.
+      </p>
+    </div>
   </div>
-</div>
 
-
-<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; ">
-  <video src="/videos/toio.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-  <div>
-    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🤖 PuppetLine: Swarm Robotic Storytelling</h3>
-    <p style="font-style: italic; font-size: 0.95rem;">
-      Built a tangible storytelling system using <strong>Toio robots</strong> and <strong>large language models (LLMs)</strong>.
-      Translates children’s narrative inputs into synchronized multi-robot actions and emotions.
-      The system empowers <strong>co-creative expression</strong> through embodied interaction.
-    </p>
+  <!-- Project 3 -->
+  <div class="project-block">
+    <video src="/videos/toio.mp4" autoplay loop muted playsinline class="project-media"></video>
+    <div>
+      <h3 class="project-title">🤖 PuppetLine: Swarm Robotic Storytelling</h3>
+      <p class="project-desc">
+        Built a tangible storytelling system using <strong>Toio robots</strong> and <strong>large language models (LLMs)</strong>.
+        Translates children’s narrative inputs into synchronized multi-robot actions and emotions.
+        The system empowers <strong>co-creative expression</strong> through embodied interaction.
+      </p>
+    </div>
   </div>
-</div>
 
-<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px; ">
-  <video src="/videos/embo.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-  <div>
-    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">✋ Embo: A Wearable Robot for Empathy Education</h3>
-    <p style="font-style: italic; font-size: 0.95rem;">
-      Designed a wearable puppet robot that transforms <strong>verbal aggression</strong> into <strong>tactile pressure feedback</strong>,
-      addressing bullying scenarios in child–robot interaction.
-      Combines <strong>natural language analysis</strong> and <strong>haptic feedback</strong> to build emotional awareness.
-    </p>
+  <!-- Project 4 -->
+  <div class="project-block">
+    <video src="/videos/embo.mp4" autoplay loop muted playsinline class="project-media"></video>
+    <div>
+      <h3 class="project-title">✋ Embo: A Wearable Robot for Empathy Education</h3>
+      <p class="project-desc">
+        Designed a wearable puppet robot that transforms <strong>verbal aggression</strong> into <strong>tactile pressure feedback</strong>,
+        addressing bullying scenarios in child–robot interaction.
+        Combines <strong>natural language analysis</strong> and <strong>haptic feedback</strong> to build emotional awareness.
+      </p>
+    </div>
   </div>
-</div>
 
-<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
-  <video src="/videos/holo interaction.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-  <div>
-    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🪞 Holographic Interaction System</h3>
-    <p style="font-style: italic; font-size: 0.95rem;">
-      Developed an interactive system that combines <strong>holographic 3D projection</strong> and <strong>hand-tracking sensors</strong>.
-      Enables <strong>contactless, real-time interaction</strong> with floating 3D visuals through gesture recognition.
-      Demonstrates the potential of holography in immersive and intuitive human–computer interfaces.
-    </p>
+  <!-- Project 5 -->
+  <div class="project-block">
+    <!-- If your filename contains a space, keep %20 (or rename the file to avoid spaces) -->
+    <video src="/videos/holo%20interaction.mp4" autoplay loop muted playsinline class="project-media"></video>
+    <div>
+      <h3 class="project-title">🪞 Holographic Interaction System</h3>
+      <p class="project-desc">
+        Developed an interactive system that combines <strong>holographic 3D projection</strong> and <strong>hand-tracking sensors</strong>.
+        Enables <strong>contactless, real-time interaction</strong> with floating 3D visuals through gesture recognition.
+        Demonstrates the potential of holography in immersive and intuitive human–computer interfaces.
+      </p>
+    </div>
   </div>
-</div>
 
-<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
-  <video src="/videos/机械臂.mp4" autoplay loop muted playsinline style="width: 200px; border-radius: 8px; border: 1px solid #ccc;"></video>
-  <div>
-    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🖼️ 3D Display Quality Assessment</h3>
-    <p style="font-style: italic; font-size: 0.95rem;">
-      Proposed a hybrid evaluation framework for <strong>glasses-free 3D displays</strong>, integrating <strong>optical metrics</strong> and <strong>human visual comfort</strong> analysis.
-      Contributed to drafting <strong>industry standards</strong> for autostereoscopic display technologies.
-    </p>
+  <!-- Project 6 -->
+  <div class="project-block">
+    <video src="/videos/机械臂.mp4" autoplay loop muted playsinline class="project-media"></video>
+    <div>
+      <h3 class="project-title">🖼️ 3D Display Quality Assessment</h3>
+      <p class="project-desc">
+        Proposed a hybrid evaluation framework for <strong>glasses-free 3D displays</strong>, integrating <strong>optical metrics</strong> and <strong>human visual comfort</strong> analysis.
+        Contributed to drafting <strong>industry standards</strong> for autostereoscopic display technologies.
+      </p>
+    </div>
   </div>
-</div>
 
-
-
-<div style="display: flex; gap: 20px; margin-bottom: 30px; padding-bottom: 20px;">
-  <img src="/videos/CSST.gif" alt="Astronomical reconstruction" style="width: 200px; border-radius: 8px; border: 1px solid #ccc;">
-  <div>
-    <h3 style="color: #0066cc; margin-top: 0; font-size: 1.25rem;">🌌 Astronomical Image Reconstruction</h3>
-    <p style="font-style: italic; font-size: 0.95rem;">
-      Developed a GPU-accelerated pipeline for <strong>turbulence removal</strong> in single-frame astronomical images using <strong>blind deconvolution</strong>, <strong>deformable convolution</strong>, and <strong>diffusion models</strong>.
-      Collaborated on hardware–software co-design with a <strong>four-aperture telescope array</strong>.
-    </p>
+  <!-- Project 7 -->
+  <div class="project-block">
+    <img src="/videos/CSST.gif" alt="Astronomical reconstruction" class="project-media">
+    <div>
+      <h3 class="project-title">🌌 Astronomical Image Reconstruction</h3>
+      <p class="project-desc">
+        Developed a GPU-accelerated pipeline for <strong>turbulence removal</strong> in single-frame astronomical images using <strong>blind deconvolution</strong>,
+        <strong>deformable convolution</strong>, and <strong>diffusion models</strong>.
+        Collaborated on hardware–software co-design with a <strong>four-aperture telescope array</strong>.
+      </p>
+    </div>
   </div>
-</div>
 
+  <h2 id="publications" class="section-title">📄 Publications</h2>
+  <p class="pub-note">(* denotes equal contribution)</p>
 
-<h2 id="publications" style="font-size: 1.6rem; font-weight: 600; border-bottom: 2px solid #ccc; padding-bottom: 4px; margin-top: 40px;">📄 Publications</h2>
-<p style="font-size: 0.95rem; color: #666;">(* denotes equal contribution)</p>
+  <ol class="pub-list">
+    <li>
+      <strong>Shuowen Li</strong><sup>*</sup>, Kexin Wang<sup>*</sup>, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun.
+      <em><a href="https://arxiv.org/pdf/2507.03839" target="_blank" rel="noopener">Participatory Evolution of Artificial Life Systems via Semantic Feedback</a></em>.
+      In: <em>SIGGRAPH Asia 2025 Art Papers</em>.
+    </li>
 
-<ol style="font-size: 0.96rem; line-height: 1.5; padding-left: 1.2em; margin-top: 6px;">
-  <li><strong>Shuowen Li</strong><sup>*</sup>, Kexin Wang<sup>*</sup>, Minglu Fang, Danqi Huang, Ali Asadipour, Haipeng Mi, Yitong Sun. 
-    <em><a href="https://arxiv.org/pdf/2507.03839" target="_blank" style="color: #0056b3; text-decoration: none;">Participatory Evolution of Artificial Life Systems via Semantic Feedback</a></em>. 
-    In: <em>SIGGRAPH Asia 2025 Art Papers</em>. 
-  </li>
+    <li>
+      Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi.
+      <em>PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots</em>.
+      In: <em>Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST), 2025.</em>
+    </li>
 
-  <li>Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi. 
-    <em>PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots</em>. 
-    In: <em>Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST), 2025.</em>
-  </li>
+    <li>
+      Shihan Qiu<sup>*</sup>, Yuhan Xie<sup>*</sup>, <strong>Shuowen Li</strong><sup>*</sup>, Wei Guo, Xiaoyue Gao, Yijie Guo.
+      <em><a href="https://dl.acm.org/doi/abs/10.1145/3610978.3640616" target="_blank" rel="noopener">Embo: A Wearable Robot Transforming Child-Directed Verbal Aggression into Tactile Feedback</a></em>.
+      In: <em>ACM/IEEE International Conference on Human-Robot Interaction (HRI '24) Companion</em>, 2024, pp. 857–861.
+    </li>
 
-  <li>Shihan Qiu<sup>*</sup>, Yuhan Xie<sup>*</sup>, <strong>Shuowen Li</strong><sup>*</sup>, Wei Guo, Xiaoyue Gao, Yijie Guo. 
-    <em><a href="https://dl.acm.org/doi/abs/10.1145/3610978.3640616" target="_blank" style="color: #0056b3; text-decoration: none;">Embo: A Wearable Robot Transforming Child-Directed Verbal Aggression into Tactile Feedback</a></em>. 
-    In: <em>ACM/IEEE International Conference on Human-Robot Interaction (HRI '24) Companion</em>, 2024, pp. 857–861.
-  </li>
+    <li>
+      <strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao.
+      <em><a href="https://www.sciencedirect.com/science/article/pii/S2667325824001328" target="_blank" rel="noopener">Lensless Camera: Unraveling the Breakthroughs and Prospects</a></em>.
+      <em>Fundamental Research</em>, 5(4), 2025, pp. 1725–1736, <span class="pub-meta">(JCR Q1, IF 6.3)</span>.
+    </li>
 
-  <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Mingjie Wang, Zhangcheng Huang, Shumei Chen, Liangcai Cao. 
-    <em><a href="https://www.sciencedirect.com/science/article/pii/S2667325824001328" target="_blank" style="color: #0056b3; text-decoration: none;">Lensless Camera: Unraveling the Breakthroughs and Prospects</a></em>. 
-    <em>Fundamental Research</em>, 5(4), 2025, pp. 1725–1736, <span style="color:#666;">(JCR Q1，IF 6.3)</span>.
-  </li>
+    <li>
+      <strong>Shuowen Li</strong>, Liangcai Cao.
+      <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-8-16911&id=570059" target="_blank" rel="noopener">Multidimensional Crosstalk Analysis in Autostereoscopic Displays: Integrating Subjective and Objective Evaluations for Image Quality Assessment</a></em>.
+      <em>Optics Express</em>, 33(8), 2025, pp. 16911–16924, <span class="pub-meta">(JCR Q2, IF 3.3)</span>.
+    </li>
 
-  <li><strong>Shuowen Li</strong>, Liangcai Cao. 
-    <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-8-16911&id=570059" target="_blank" style="color: #0056b3; text-decoration: none;">Multidimensional Crosstalk Analysis in Autostereoscopic Displays: Integrating Subjective and Objective Evaluations for Image Quality Assessment</a></em>. 
-    <em>Optics Express</em>, 33(8), 2025, pp. 16911–16924, <span style="color:#666;">(JCR Q2，IF 3.3)</span>.
-  </li>
+    <li>
+      <strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Liangcai Cao.
+      <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-20-35579&id=559910" target="_blank" rel="noopener">Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method</a></em>.
+      <em>Optics Express</em>, 32(20), 2024, pp. 35579–35593, <span class="pub-meta">(JCR Q2, IF 3.3)</span>.
+    </li>
+  </ol>
 
-  <li><strong>Shuowen Li</strong>, Yunhui Gao, Jiachen Wu, Liangcai Cao. 
-    <em><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-20-35579&id=559910" target="_blank" style="color: #0056b3; text-decoration: none;">Blind Deblurring of Astronomical Images Using SCGTV-Based Single-Frame Method</a></em>. 
-    <em>Optics Express</em>, 32(20), 2024, pp. 35579–35593 <span style="color:#666;">(JCR Q2，IF 3.3)</span>.
-  </li>
-</ol>
-
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-top: 30px;">
-  <img src="/images/matter_cover.jpg" alt="Matter book cover" style="width: 160px; height: auto; border: 1px solid #ccc;">
-  <div>
-    <h3 style="margin-top: 0; font-size: 1.2rem;">📘 Book Translation</h3>
-    <p><em>Geoff Cottrell</em>. 
-      <strong><em>
-        <a href="https://read.douban.com/ebook/479553544/" target="_blank" style="color: #0056b3; text-decoration: none;">
-          Matter: A Very Short Introduction
-        </a>
-      </em></strong>.<br>
-      Translated by Xiang Liu, <strong>Shuowen Li</strong>, Jiageng Li.<br>
-      Yilin Press, 2024. ISBN: 9787575301671.
-    </p>
-    <p style="margin-top: 8px;">
-      <em>A concise yet wide-ranging introduction to matter, guiding readers through its forms from fundamental particles to cosmic structures—with clarity and accessibility.</em>
-    </p>
+  <div class="book-block">
+    <img src="/images/matter_cover.jpg" alt="Matter book cover" class="book-cover">
+    <div>
+      <h3 class="book-title">📘 Book Translation</h3>
+      <p class="book-desc">
+        <em>Geoff Cottrell</em>.
+        <strong><em>
+          <a href="https://read.douban.com/ebook/479553544/" target="_blank" rel="noopener">Matter: A Very Short Introduction</a>
+        </em></strong>.<br>
+        Translated by Xiang Liu, <strong>Shuowen Li</strong>, Jiageng Li.<br>
+        Yilin Press, 2024. ISBN: 9787575301671.
+      </p>
+      <p class="project-desc" style="font-style: italic; margin-top: 8px;">
+        A concise yet wide-ranging introduction to matter, guiding readers through its forms from fundamental particles to cosmic structures—with clarity and accessibility.
+      </p>
+    </div>
   </div>
+
 </div>
 
 
