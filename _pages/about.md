@@ -124,7 +124,7 @@ redirect_from:
   <p>
     Check out my <a href="../assets/CV_Shuowen_Li.pdf">CV</a> for more!
   </p>
-</div>
+<!-- </div> -->
 
   <h2 id="projects" class="section-title">🧪 Projects</h2>
 
