@@ -91,6 +91,7 @@ redirect_from:
   align-items: flex-start;
   gap: 30px;
   margin-top: 30px;
+  line-height: 2;
 }
 .book-cover{
   width: 160px;
