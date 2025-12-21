@@ -56,10 +56,12 @@ redirect_from:
   margin: 0;
   font-size: 1.15rem;          /* project title size */
   font-weight: 600;
+  line-height: 2;
+  margin-bottom: 6px;
 }
 .project-desc{
   font-style: italic;
-  font-size: 1.2rem;          /* project description size */
+  font-size: 0.85rem;          /* project description size */
   color: #4b5563;
   margin: 8px 0 0 0;
 }
