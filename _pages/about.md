@@ -101,6 +101,7 @@ redirect_from:
   margin: 0;
   font-size: 1.12rem;
   font-weight: 600;
+  line-height: 2;
 }
 .book-desc{
   margin: 10px 0 0 0;
