@@ -79,7 +79,7 @@ redirect_from:
 
 /* ========= Publications ========= */
 .pub-note{
-  font-size:0.90rem;           /* (* denotes ...) */
+  font-size:0.80rem;           /* (* denotes ...) */
   color:#6b7280;
   margin:0 0 8px 0;
 }
