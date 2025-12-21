@@ -12,7 +12,7 @@ redirect_from:
 <style>
 /* overall typography on this page */
 .home-wrap{
-  font-size: 0.95rem;          /* overall body text size */
+  font-size: 0.85rem;          /* overall body text size */
   line-height: 1.65;
   color: #1f2937;
   font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Helvetica Neue", Arial,
@@ -66,12 +66,12 @@ redirect_from:
 
 /* publications */
 .pub-note{
-  font-size: 0.92rem;
+  font-size: 0.8rem;
   color: #6b7280;
   margin: 0 0 8px 0;
 }
 .pub-list{
-  font-size: 0.94rem;
+  font-size: 0.8rem;
   line-height: 1.55;
   padding-left: 1.2em;
   margin: 6px 0 0 0;
