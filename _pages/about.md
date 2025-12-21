@@ -6,116 +6,121 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* ========= overall typography on this page ========= */
+.home-wrap{
+  font-size: 0.8rem;          /* 全页基准字号：想更小改 0.9；想大改 0.95 */
+  line-height: 1.65;
+  color: #1f2937;
+  font-family:
+    -apple-system, BlinkMacSystemFont,
+    "Inter",
+    "Segoe UI", "Helvetica Neue", Arial,
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+    sans-serif;
+}
 
-Hi! I’m **Shuowen Li (李硕文)**, a third-year M.S. student in Optical Engineering at **Tsinghua University**, advised by Prof. Liangcai Cao. I also work as a research intern at the **Academy of Arts & Design**, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
+/* paragraphs (your intro text lives here) */
+.home-wrap p{
+  font-size: 1rem;             /* 简介段落字号：想统一小一点就改成 0.92rem */
+  line-height: 1.75;
+  margin: 0 0 14px 0;
+}
 
-My research focuses on **human–AI interaction**, **computational imaging**, **3D display**, and **creative robotics**. I am particularly interested in how intelligent systems can support and extend human creativity, and I also hope to explore how optical technologies can enable novel forms of interaction and 3D experiences. By combining engineering and art, my goal is to develop interactive systems that empower people to create with AI across both digital and physical domains.
+/* links */
+.home-wrap a{ color:#0056b3; text-decoration:none; }
+.home-wrap a:hover{ text-decoration:underline; }
+
+/* h2 from Markdown: Skills / Research Interests */
+.home-wrap h2{
+  font-size: 1.45rem;
+  font-weight: 600;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 4px;
+  margin-top: 40px;
+  margin-bottom: 16px;
+}
+
+/* lists: Skills / Interests / Publications list */
+.home-wrap ul,
+.home-wrap ol{
+  font-size: 0.94rem;
+  line-height: 1.6;
+  padding-left: 1.2em;
+  margin: 8px 0 0 0;
+}
+.home-wrap li{ margin: 6px 0; }
+
+/* ========= Projects ========= */
+.project-block{
+  display:flex;
+  gap:20px;
+  margin-bottom:30px;
+  padding-bottom:20px;
+}
+.project-media{
+  width:200px;
+  border-radius:10px;
+  border:1px solid #ccc;
+  background:#fff;
+}
+.project-title{
+  color:#0066cc;
+  margin:0;
+  font-size:1.12rem;           /* 项目标题字号 */
+  font-weight:600;
+}
+.project-desc{
+  font-style:italic;
+  font-size:0.90rem;           /* 项目描述字号 */
+  color:#4b5563;
+  margin:8px 0 0 0;
+}
+
+/* ========= Publications ========= */
+.pub-note{
+  font-size:0.90rem;           /* (* denotes ...) */
+  color:#6b7280;
+  margin:0 0 8px 0;
+}
+.pub-meta{ color:#6b7280; }
+
+/* ========= Book block ========= */
+.book-block{
+  display:flex;
+  align-items:flex-start;
+  gap:16px;
+  margin-top:30px;
+}
+.book-cover{
+  width:160px;
+  height:auto;
+  border:1px solid #ccc;
+}
+.book-title{
+  margin:0;
+  font-size:1.10rem;
+  font-weight:600;
+}
+.book-desc{
+  margin:10px 0 0 0;
+  color:#374151;
+}
+</style>
+
+
 
 
 <!-- =========================
   Page-local styles (easy to tweak)
 ========================= -->
-<style>
-/* overall typography on this page */
-.home-wrap{
-  font-size: 0.75rem;          /* overall body text size */
-  line-height: 1.65;
-  color: #1f2937;
-  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Helvetica Neue", Arial,
-               "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-}
-
-/* links */
-.home-wrap a{
-  color: #0056b3;
-  text-decoration: none;
-}
-.home-wrap a:hover{
-  text-decoration: underline;
-}
-
-/* section title (Projects / Publications) */
-.section-title{
-  font-size: 1.45rem;          /* section header size */
-  font-weight: 600;
-  border-bottom: 2px solid #ccc;
-  padding-bottom: 4px;
-  margin-top: 40px;
-  margin-bottom: 18px;
-}
-
-/* project block layout */
-.project-block{
-  display: flex;
-  gap: 20px;
-  margin-bottom: 30px;
-  padding-bottom: 20px;
-}
-.project-media{
-  width: 200px;
-  border-radius: 10px;
-  border: 1px solid #ccc;
-  background: #fff;
-}
-.project-title{
-  color: #0066cc;
-  margin: 0;
-  font-size: 1.15rem;          /* project title size */
-  font-weight: 600;
-}
-.project-desc{
-  font-style: italic;
-  font-size: 0.92rem;          /* project description size */
-  color: #4b5563;
-  margin: 8px 0 0 0;
-}
-
-/* publications */
-.pub-note{
-  font-size: 0.92rem;
-  color: #6b7280;
-  margin: 0 0 8px 0;
-}
-.pub-list{
-  font-size: 0.94rem;
-  line-height: 1.55;
-  padding-left: 1.2em;
-  margin: 6px 0 0 0;
-}
-.pub-list li{
-  margin: 0 0 10px 0;
-}
-.pub-meta{
-  color: #6b7280;
-}
-
-/* book translation block */
-.book-block{
-  display: flex;
-  align-items: flex-start;
-  gap: 16px;
-  margin-top: 30px;
-}
-.book-cover{
-  width: 160px;
-  height: auto;
-  border: 1px solid #ccc;
-}
-.book-title{
-  margin: 0;
-  font-size: 1.12rem;
-  font-weight: 600;
-}
-.book-desc{
-  margin: 10px 0 0 0;
-  color: #374151;
-}
-</style>
 
 <div class="home-wrap">
 
-  <!-- Your existing intro above remains unchanged -->
-  <!-- Keep: "Check out my CV..." line -->
+  Hi! I’m **Shuowen Li (李硕文)**, a third-year M.S. student in Optical Engineering at **Tsinghua University**, advised by Prof. Liangcai Cao. I also work as a research intern at the **Academy of Arts & Design**, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
+
+  My research focuses on **human–AI interaction**, **computational imaging**, **3D display**, and **creative robotics**. I am particularly interested in how intelligent systems can support and extend human creativity, and I also hope to explore how optical technologies can enable novel forms of interaction and 3D experiences. By combining engineering and art, my goal is to develop interactive systems that empower people to create with AI across both digital and physical domains.
+  
   Check out my <a href="../assets/CV_Shuowen_Li.pdf">CV</a> for more!
 
   <h2 id="projects" class="section-title">🧪 Projects</h2>
