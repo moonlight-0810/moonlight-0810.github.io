@@ -154,6 +154,10 @@ redirect_from:
         Building a designer-friendly workflow that unifies <strong>design, optimization, and manufacturing</strong>,
         enabling users to explore a broader and more expressive caustic lens design space.
       </p>
+      
+    <div class="project-meta">
+      <span class="pub-meta">Cooperator: Zhihao Yao, Danqi Huang</span>
+    </div>
     </div>
   </div>
 
