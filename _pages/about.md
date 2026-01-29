@@ -171,6 +171,9 @@ redirect_from:
         Integrated <strong>CLIP-based multimodal evaluation</strong> and <strong>CMA-ES optimization</strong>, supporting both semantic guidance and emergent swarm behaviors.
         Enables participatory generative design in the spirit of “evolving with intention”.
       </p>
+    <div class="project-meta">
+      <span class="pub-meta">Cooperator: Danqi Huang, Kexin Wang</span>
+    </div>
     </div>
   </div>
 
@@ -184,6 +187,9 @@ redirect_from:
         Robots perform on a tabletop stage using <strong>path dynamics</strong> and <strong>spatial formations</strong> to convey plot and emotion.
         Dynamic projection enriches the narrative with vivid scenery and interactive visual cues.
       </p>
+    <div class="project-meta">
+      <span class="pub-meta">Cooperator: Danqi Huang</span>
+    </div>
     </div>
   </div>
 
@@ -197,6 +203,9 @@ redirect_from:
         Translates children’s narrative inputs into synchronized multi-robot actions and emotions.
         The system empowers <strong>co-creative expression</strong> through embodied interaction.
       </p>
+    <div class="project-meta">
+      <span class="pub-meta">Cooperator: Ruhan Wang, Yijie Guo, Peiran Zhang, Danqi Huang</span>
+    </div>
     </div>
   </div>
 
@@ -210,6 +219,9 @@ redirect_from:
         addressing bullying scenarios in child–robot interaction.
         Combines <strong>natural language analysis</strong> and <strong>haptic feedback</strong> to build emotional awareness.
       </p>
+    <div class="project-meta">
+      <span class="pub-meta">Cooperator: Shihan Qiu, Xiaoyue Gao, Yuhan Xie</span>
+    </div>
     </div>
   </div>
 
