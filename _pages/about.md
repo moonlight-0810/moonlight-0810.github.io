@@ -246,6 +246,13 @@ redirect_from:
 
     <li>
       Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi.
+      <em>From Text to Movement: LLM-driven Swarm User Interfaces for Embodied and Interactive Storytelling</em>.
+      In: <em>ACM Conference on Intelligent User Interfaces (IUI) 2026</em>. (<em>accepted</em>)
+    </li>
+
+
+    <li>
+      Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi.
       <em>PuppetLine: An Interactive System for Embodied Storytelling with LLM-driven Swarm Robots</em>.
       In: <em>Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST), 2025.</em>
     </li>
