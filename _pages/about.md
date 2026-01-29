@@ -152,7 +152,7 @@ redirect_from:
         Developing computational methods for <strong>caustic lens design</strong> and exploring <strong>3D-printing-aware fabrication</strong>
         to reliably produce high-quality caustic projections.
         Building a designer-friendly workflow that unifies <strong>design, optimization, and manufacturing</strong>,
-        enabling users to explore a broader and more expressive caustic lens design space.
+        enabling users to explore a broader caustic lens design space.
       </p>
       
     <div class="project-meta">
