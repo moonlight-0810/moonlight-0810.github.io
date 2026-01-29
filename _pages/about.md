@@ -261,7 +261,7 @@ redirect_from:
     <li>
       Ruhan Wang, <strong>Shuowen Li</strong>, Peiran Zhang, Danqi Huang, Yijie Guo, Haipeng Mi.
       <em>From Text to Movement: LLM-driven Swarm User Interfaces for Embodied and Interactive Storytelling</em>.
-      In: <em>ACM Conference on Intelligent User Interfaces (IUI) 2026</em>. (<em>accepted</em>)
+      In: <em>ACM Conference on Intelligent User Interfaces (IUI) 2026</em>. <span class="pub-meta">(Accepted)</span>
     </li>
 
 
