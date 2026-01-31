@@ -147,12 +147,12 @@ redirect_from:
   <div class="project-block">
     <video src="/videos/caustic.mp4" autoplay loop muted playsinline class="project-media"></video>
     <div>
-      <h3 class="project-title">💡 Caustic Lens Design Workflow <em>(on-going)</em></h3>
+      <h3 class="project-title">💡 Caustic Optical Design<em>(on-going)</em></h3>
       <p class="project-desc">
-        Developing computational methods for <strong>caustic lens design</strong> and exploring <strong>3D-printing-aware fabrication</strong>
-        to reliably produce high-quality caustic projections.
+        Developing computational methods for <strong>caustic optical design</strong>, grounded in <strong>physics-based light transport</strong>,
+        and exploring <strong>3D-printing-aware fabrication</strong> to reliably produce high-quality caustic projections.
         Building a designer-friendly workflow that unifies <strong>design, optimization, and manufacturing</strong>,
-        enabling users to explore a broader caustic lens design space.
+        enabling broader exploration of caustic lens design and new expressive uses of <strong>light</strong> in <strong>art and design</strong>.
       </p>
       
     <div class="project-meta">
