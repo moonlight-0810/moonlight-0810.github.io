@@ -150,9 +150,9 @@ redirect_from:
       <h3 class="project-title">💡 Caustic Optical Design <em>(on-going)</em></h3>
       <p class="project-desc">
         Developing computational methods for <strong>caustic optical design</strong>, grounded in physics-based light transport,
-        and exploring 3D-printing-aware fabrication to reliably produce high-quality caustic projections.
+        and exploring 3D-printing-aware fabrication to produce high-quality caustic projections.
         Building a designer-friendly workflow that unifies <strong>design, optimization, and manufacturing</strong>,
-        enabling broader exploration of caustic lens design and new expressive uses of <strong>light</strong> in <strong>art and design</strong>.
+        enabling broader exploration of caustic design and new expressive uses of <strong>light</strong> in <strong>art and design</strong>.
       </p>
       
     <div class="project-meta">
