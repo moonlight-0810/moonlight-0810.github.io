@@ -130,10 +130,10 @@ redirect_from:
   </p>
 
   <p>
-    My research focuses on <strong>human–AI interaction</strong>, <strong>computational imaging</strong>, <strong>3D display</strong>, and
-    <strong>creative robotics</strong>. I am particularly interested in how intelligent systems can support and extend human creativity,
-    and I also hope to explore how optical technologies can enable novel forms of interaction and 3D experiences. By combining engineering
-    and art, my goal is to develop interactive systems that empower people to create with AI across both digital and physical domains.
+    My research focuses on <strong>human–AI interaction</strong>, <strong>computer vision</strong>, <strong>computational design</strong>,
+    and <strong>digital fabrication</strong>. I am interested in how intelligent systems can support and extend human creativity. I also explore how <strong>light-based technologies</strong> can enable
+    novel interaction techniques and 3D experiences. By bridging engineering and art, I aim to develop interactive systems that empower
+    people to create with AI across both digital and physical domains.
   </p>
 
   <p>
