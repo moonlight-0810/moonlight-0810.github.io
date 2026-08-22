@@ -124,9 +124,9 @@ redirect_from:
 <div class="home-wrap">
   <p>
     Hi! I’m <strong>Shuowen Li (李硕文)</strong>, a third-year M.S. student in Optical Engineering at
-    <strong>Tsinghua University</strong>, advised by Prof. Liangcai Cao. I also work as a research intern at the
-    <strong>Academy of Arts &amp; Design</strong>, mentored by Prof. Haipeng Mi. Previously, I received my B.S. in Physics from
-    Lanzhou University, where I studied nanomaterial design under Prof. Hao Jia.
+    <strong>Tsinghua University</strong>. I also work as a research intern at the
+    <strong>Academy of Arts &amp; Design</strong>. Previously, I received my B.S. in Physics from
+    Lanzhou University.
   </p>
 
   <p>
