@@ -147,7 +147,7 @@ redirect_from:
   <div class="project-block">
     <video src="/videos/caustic.mp4" autoplay loop muted playsinline class="project-media"></video>
     <div>
-      <h3 class="project-title">💡 Caustic Optical Design <em>(on-going)</em></h3>
+      <h3 class="project-title">💡 Caustic Optical Design</h3>
       <p class="project-desc">
         Developing computational methods for <strong>caustic optical design</strong>, grounded in physics-based light transport,
         and exploring 3D-printing-aware fabrication to produce high-quality caustic projections.
