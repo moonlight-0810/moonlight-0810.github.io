@@ -123,17 +123,17 @@ redirect_from:
 
 <div class="home-wrap">
   <p>
-    Hi! I’m <strong>Shuowen Li (李硕文)</strong>, a third-year M.S. student in Optical Engineering at
-    <strong>Tsinghua University</strong>. I also work as a research intern at the
-    <strong>Academy of Arts &amp; Design</strong>. Previously, I received my B.S. in Physics from
-    Lanzhou University.
+    Hi! I’m <strong>Shuowen Li (李硕文)</strong>, a first-year Ph.D. student at the
+    <strong>National University of Singapore (NUS)</strong>, researching <strong>human–computer interaction (HCI)</strong>.
+    I received my M.S. in Optical Engineering from <strong>Tsinghua University</strong> and my B.S. in Physics from
+    <strong>Lanzhou University</strong>.
   </p>
 
   <p>
-    My research focuses on <strong>human–AI interaction</strong>, <strong>computer vision</strong>, <strong>computational design</strong>,
-    and <strong>digital fabrication</strong>. I am interested in how intelligent systems can support and extend human creativity. I also explore how <strong>light-based technologies</strong> can enable
-    novel interaction techniques and 3D experiences. By bridging engineering and art, I aim to develop interactive systems that empower
-    people to create with AI across both digital and physical domains.
+    My research focuses on <strong>computational design</strong>, <strong>digital fabrication</strong>, and <strong>computer graphics</strong>.
+    I am interested in how intelligent systems can support and extend human creativity. I also explore how
+    <strong>light-based technologies</strong> can enable novel interaction techniques. By bridging engineering and design,
+    I aim to develop interactive systems that empower people to create with AI across both digital and physical domains.
   </p>
 
   <p>
