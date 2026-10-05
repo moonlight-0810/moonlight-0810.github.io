@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Shuowen Li / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shuowen Li"
-description              : &description "Master's student majoring in optical engineering from Tsinghua University"
+description              : &description "First-year Ph.D. student at the National University of Singapore (NUS), researching human–computer interaction (HCI)."
 url                      : "https://shuowen.page" # canonical public site URL
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moonlight-0810/moonlight-0810.github.io"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "shuowen4.jpg"
   name             : "Shuowen Li （李硕文）"
-  pronouns         : "Tsinghua University"  
-  bio              : "HCI researcher with interdisciplinary background in engineering & design."
-  location         : "Beijing, China"
+  pronouns         : "National University of Singapore"  
+  bio              : "First-year Ph.D. student in HCI, bridging engineering and design."
+  location         : "Singapore"
   employer         : 
   uri              : # URL
-  email            : "lsw23@mails.tsinghua.edu.cn" 
+  email            : "lishuowen@u.nus.edu" 
 
   # Academic websites
   academia         : # URL
